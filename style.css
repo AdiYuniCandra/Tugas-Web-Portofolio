@@ -1,0 +1,79 @@
+html {
+	font-family: Josefin Sans;
+}
+
+header {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/gb.background.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+h1 {
+	padding-top: 20px;
+	padding-right: 20px;
+	color: #f00;
+	text-align: right;
+}
+
+.photo img {
+	width: 100px;
+	height: auto;
+	border-radius: 60%;
+	margin-left: 85%;
+}
+
+/*-----BUTTON-----*/
+.btn {
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px 10px;
+	border-radius: 20%;
+	float: right;
+}
+
+.btnklik {
+	border: 2px solid #e67932;
+	color: #fff;
+	margin-right: 40px;
+	margin-top: 30px;
+}
+
+.btnklik:hover {
+	background-color: #e67932;
+
+}
+/*-----BUTTON-----*/
+
+.ico img {
+	width: 50px;
+	height: auto;
+}
+
+.icn {
+	width: 20px;
+	height: auto;
+}
+
+h2 {
+	text-align: center;
+}
+
+.kontek {
+	width: 100px;
+	height: auto;
+	margin-top: 0px;
+	margin-left: 70%;
+}
+
+.slogan {
+	margin-top: 240px;
+	margin-left: 40%;
+}
+
+footer {
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(img/gb.background.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100vh;
+}
